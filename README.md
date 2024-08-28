@@ -1,21 +1,24 @@
-# ALX-Data-Science-Program: A collection of projects from my ALX Data Science Program.
- 
+# ALX-Data-Science-Program: A collection of projects from my ALX Data Science Program
+
 Welcome to my ALX Data Science Progress repo! This repository contains my work on various projects done in the program. Each folder represents a sprint and projects where I gain new knowledge in each sprint and apply it on guided projects. This collection is a testament to my continuous learning and passion for data science.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Sprints](#sprints)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
+- [ALX-Data-Science-Program: A collection of projects from my ALX Data Science Program](#alx-data-science-program-a-collection-of-projects-from-my-alx-data-science-program)
+  - [Table of Contents](#table-of-contents)
+  - [Sprints](#sprints)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Sprints
+
 Here is a list of all the sprints in this repository:
 
-1. **[Explore101: Introduction to Data Science and Problem-Solving](link-to-project)**
+1. **[Explore101: Introduction to Data Science and Problem-Solving](https://github.com/ahmedokka29/ALX-Data-Science-Program/tree/main/1-%20Explore101)**
    - This sprint offers a foundational journey into data science, exploring big data, data-driven analysis, effective teamwork methodologies, and essential problem-solving techniques using tools like flowcharts, pseudocode, and design thinking.
 
-2. **[Preparing Data: Essential Data Manipulation and Analysis](link-to-Project)**
+2. **[Preparing Data: Essential Data Manipulation and Analysis](https://github.com/ahmedokka29/ALX-Data-Science-Program/tree/main/2-%20Preparing%20Data)**
    - This sprint focuses on mastering data manipulation, cleaning, and analysis in Google Sheets. It covers sourcing data, applying descriptive statistics, visualizing data, and ensuring data integrity. The sprint also includes practical projects on real-world issues like access to drinking water and introduces key concepts like hypothesis testing and model accuracy.
 
 3. **[SQL: Mastering Database Management and Advanced Querying](link-to-Project)**
@@ -31,21 +34,22 @@ Here is a list of all the sprints in this repository:
    - This sprint focuses on essential regression techniques for predictive modelling, starting with fundamental linear regression and progressing through multiple linear regression, model evaluation, and advanced methods such as regularisation, decision trees, and ensemble methods. You’ll learn to implement and assess models, select relevant variables, and apply strategies like bootstrapping and random forests to enhance prediction accuracy. Practical code challenges and an MCQ will consolidate your skills in building and refining regression models.
 
 7. **[NLP and Classification](link-to-Project)**
-   - Description: 
+   - Description:
 
 8. **[Unsupervised Learning](link-to-Project)**
-   - Description: 
+   - Description:
 
 9. **[AWS foundations](link-to-Project)**
-   - Description: 
-
-
+   - Description:
 
 ## Usage
+
 Each project is designed to be run independently. Simply open the project folder you're interested in, and follow the instructions within. Feel free to use these projects as templates or inspiration for your own work.
 
 ## Contributing
+
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or new notebooks.
 
 ## License
+
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
